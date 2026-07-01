@@ -1,0 +1,79 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ==========================
+# Virtual Environment
+# ==========================
+.mnist/
+venv/
+env/
+ENV/
+.venv/
+
+# ==========================
+# IDE
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Environment Variables
+# ==========================
+.env
+.env.*
+
+# ==========================
+# Logs
+# ==========================
+*.log
+
+# ==========================
+# Model Checkpoints
+# ==========================
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+
+# ==========================
+# Generated Samples
+# ==========================
+samples/
+*.png
+*.jpg
+*.jpeg
+
+# ==========================
+# Dataset
+# Uncomment if your dataset can be downloaded again
+# ==========================
+# data/
+
+# Keep folder structure if needed
+# !data/.gitkeep
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
