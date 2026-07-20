@@ -1,7 +1,7 @@
 # 🤖 Generative AI Repository
 
 A collection of **Generative AI** projects, examples, notebooks, and resources covering Large Language Models (LLMs), Prompt Engineering, Retrieval-Augmented Generation (RAG), AI Agents, Fine-tuning, and more.
-Also each foldr contain MY nots as the folder is completed.
+Also each foldr contain MY nots as the folder is completed...
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
