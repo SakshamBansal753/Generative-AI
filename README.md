@@ -11,7 +11,7 @@ Also each foldr contain MY nots as the folder is completed...
 
 ## 📖 Overview
 
-This repository contains hands-on implementations, tutorials, and experiments in Generative AI using modern frameworks and APIs.
+This repository contains hands-on implementations, tutorials, and experiments in Generative AI using modern frameworks and APIs and MCP.
 
 Topics include:
 
